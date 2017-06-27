@@ -3,7 +3,7 @@ GreenDao3.2的使用，仿购物车和购买者清单demo
 
 # 效果图
 
-![这里写图片描述]()
+![这里写图片描述](http://img.blog.csdn.net/20170627152534080?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdTAxNDYyNDI0MQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 # 主要说明
 ## 1.真正的引入步骤，亲测无误
