@@ -61,6 +61,11 @@ dependencies {
 }
 ```
 
+# 更多内容见csdn博文
+[greendao3 使用和源码分析 ](http://blog.csdn.net/u014624241/article/details/73740748)
+
+
+
 # 感谢（博主的我编译总是报错，不能创建dao）
 [Android实战——GreenDao3.2的使用，爱不释手](https://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821932&idx=1&sn=d26c09af7cbbfb1b0a95517bd78cc784&chksm=80b781b2b7c008a4a8dab45756e4d433b1c56e1c61762f98ee3b8a2b89a00756f82d6bb4d6b6&scene=0#rd)
 
