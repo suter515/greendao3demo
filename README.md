@@ -62,7 +62,7 @@ dependencies {
 ```
 
 # 更多内容见csdn博文
-[greendao3 使用和源码分析 ](http://blog.csdn.net/u014624241/article/details/73740748)
+[greendao3 使用和源码分析 ](http://blog.csdn.net/u014624241/article/details/73740748)      
 
 
 
