@@ -6,10 +6,8 @@ GreenDao3.2的使用，仿购物车和购买者清单demo
 ![这里写图片描述]()
 
 # 主要说明
-
-
-##1.真正的引入步骤，亲测无误
-###1.1在projoct的build.gradle里
+## 1.真正的引入步骤，亲测无误
+### 1.1在projoct的build.gradle里
 ```
 dependencies {
         classpath 'com.android.tools.build:gradle:2.2.2'
@@ -19,8 +17,8 @@ dependencies {
         // in the individual module build.gradle files
     }
 ```
-###1.2在app build.gradle里
-    ```
+### 1.2在app build.gradle里
+```
 apply plugin: 'com.android.application'
 apply plugin: 'org.greenrobot.greendao'
 
@@ -61,9 +59,9 @@ dependencies {
     compile'org.greenrobot:greendao-generator:3.0.0'
     compile files('libs/xUtils-2.6.14.jar')
 }
-
 ```
 
-#感谢
+# 感谢（博主的我编译总是报错，不能创建dao）
 [Android实战——GreenDao3.2的使用，爱不释手](https://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821932&idx=1&sn=d26c09af7cbbfb1b0a95517bd78cc784&chksm=80b781b2b7c008a4a8dab45756e4d433b1c56e1c61762f98ee3b8a2b89a00756f82d6bb4d6b6&scene=0#rd)
+
 
